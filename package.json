@@ -1,0 +1,26 @@
+{
+  "name": "nodejsproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/DBConnection/fileOperations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajbirdawade94/nodejsProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajbirdawade94/nodejsProject/issues"
+  },
+  "homepage": "https://github.com/surajbirdawade94/nodejsProject#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.12",
+    "multer": "^1.4.2",
+    "xlsx": "^0.15.2"
+  }
+}
